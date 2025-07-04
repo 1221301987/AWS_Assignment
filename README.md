@@ -40,7 +40,7 @@ Due to AWS Academy Sandbox restrictions, the following features could **not** be
 These restrictions do **not** impact the core security principles demonstrated.
 
 ## Demo Video
-Presentation & live demo: **[YouTube link placeholder – paste here]**
+Presentation & live demo: **https://youtu.be/zqWv2mHKVfI**
 
 ---
 © 2025 Group 49. 
